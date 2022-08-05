@@ -22,7 +22,7 @@ pod 'LCYAfnetworking'
 
 ## Author
 
-李存瑶, cyli@streamax.com
+licy, 1436120982@qq.com
 
 ## License
 
