@@ -1,0 +1,27 @@
+{
+  "name": "LCYAfnetworking",
+  "version": "0.1.0",
+  "summary": "A short description of LCYAfnetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/李存瑶/LCYAfnetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李存瑶": "cyli@streamax.com"
+  },
+  "source": {
+    "git": "https://github.com/李存瑶/LCYAfnetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LCYAfnetworking/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}

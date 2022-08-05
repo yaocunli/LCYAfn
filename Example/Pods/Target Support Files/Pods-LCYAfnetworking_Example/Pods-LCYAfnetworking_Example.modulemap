@@ -1,0 +1,6 @@
+framework module Pods_LCYAfnetworking_Example {
+  umbrella header "Pods-LCYAfnetworking_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

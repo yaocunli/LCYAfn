@@ -7,6 +7,7 @@
 //
 
 #import "LCYViewController.h"
+#import "LCYAfn.h"
 
 @interface LCYViewController ()
 
@@ -17,13 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    [LCYAfn testWithString:@"http://www.baidu.com"];
 }
 
 @end
