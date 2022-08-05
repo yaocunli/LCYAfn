@@ -207,7 +207,7 @@
 				6003F586195388D20070C39A /* Sources */,
 				6003F587195388D20070C39A /* Frameworks */,
 				6003F588195388D20070C39A /* Resources */,
-				CDD8F1335C1AE8179F2E966D /* [CP] Embed Pods Frameworks */,
+				FF0A50FE7084AE7013400001 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -361,7 +361,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LCYAfnetworking_Tests/Pods-LCYAfnetworking_Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		CDD8F1335C1AE8179F2E966D /* [CP] Embed Pods Frameworks */ = {
+		FF0A50FE7084AE7013400001 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (

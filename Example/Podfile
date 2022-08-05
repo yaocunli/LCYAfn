@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '10.0'
 
 target 'LCYAfnetworking_Example' do
-#  pod 'LCYAfnetworking', :path => '../'
+  pod 'LCYAfnetworking', :path => '../'
 
   target 'LCYAfnetworking_Tests' do
     inherit! :search_paths
