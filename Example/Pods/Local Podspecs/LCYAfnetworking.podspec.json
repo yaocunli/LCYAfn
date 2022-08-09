@@ -1,18 +1,18 @@
 {
   "name": "LCYAfnetworking",
   "version": "0.1.0",
-  "summary": "A short description of LCYAfnetworking.",
+  "summary": "组件化demo，封装了afn的使用",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/李存瑶/LCYAfnetworking",
+  "homepage": "https://github.com/yaocunli/LCYAfn",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "李存瑶": "cyli@streamax.com"
+    "lcy": "1436120982@qq.com"
   },
   "source": {
-    "git": "https://github.com/李存瑶/LCYAfnetworking.git",
+    "git": "https://github.com/yaocunli/LCYAfn.git",
     "tag": "0.1.0"
   },
   "platforms": {
@@ -22,6 +22,9 @@
   "dependencies": {
     "AFNetworking": [
       "~> 2.3"
+    ],
+    "JLRoutes": [
+
     ]
   }
 }

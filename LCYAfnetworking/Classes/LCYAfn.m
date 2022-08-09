@@ -7,6 +7,7 @@
 
 #import "LCYAfn.h"
 #import "AFNetworking.h"
+#import "JLRoutes.h"
 
 @implementation LCYAfn
 +(void)testWithString:(NSString*)url {
@@ -20,4 +21,12 @@
         
     }];
 }
+
++(void)testRoute:(NSString*)url {
+    NSLog(@"1111");
+    [JLRoutes routeURL:[NSURL URLWithString:@"littleThingProject://routesTargetVC/passValues"]];
+}
+
+
+
 @end

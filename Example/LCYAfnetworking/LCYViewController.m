@@ -19,6 +19,7 @@
 {
     [super viewDidLoad];
     [LCYAfn testWithString:@"http://www.baidu.com"];
+    [LCYAfn testRoute:@""];
 }
 
 @end

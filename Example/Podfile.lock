@@ -25,8 +25,10 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
+  - JLRoutes (2.1)
   - LCYAfnetworking (0.1.0):
     - AFNetworking (~> 2.3)
+    - JLRoutes
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -36,6 +38,7 @@ SPEC REPOS:
   trunk:
     - AFNetworking
     - FBSnapshotTestCase
+    - JLRoutes
 
 EXTERNAL SOURCES:
   LCYAfnetworking:
@@ -44,8 +47,9 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  LCYAfnetworking: bfb7b6dfe67dca08527fbeb74be3dc7942915d4b
+  JLRoutes: d755245322b94227662ea3e43492fdca94e05c5b
+  LCYAfnetworking: dc81d3a0bfabbd6895b37cd2f9ca43521caaafb5
 
 PODFILE CHECKSUM: 5b34932c195d65c7d4c91accb0263b6f207362e7
 
-COCOAPODS: 1.11.2
+COCOAPODS: 1.11.3
